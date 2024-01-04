@@ -1,2 +1,7 @@
 # Data-Visualization-Projects
-Data Visualization Portfolio: Motorbike Sales and Survey Dashboard
+This repository contains excel and PowerBi Data Visualization projects containing Sales and Survey datasets.
+
+Features
+- Time Series Analysis
+- Accurate Sales Forecasting
+- Interactive Dashboard
